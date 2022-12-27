@@ -2,7 +2,11 @@
 
 - 👀 I’m interested in finding what I like best in IT :)
 
-- my pieces of JS script can be found there :)
+-Try out my approaches in gaming field :) 
+https://github.com/AKuuna/Games
+https://github.com/AKuuna/game_uno
+
+- my other pieces of JS script can be found there :)
 https://replit.com/@AKuuna
 https://codepen.io/akuuna
 - I'm also fighting on Codewars🥁
