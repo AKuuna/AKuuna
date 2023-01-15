@@ -3,7 +3,7 @@
 - 👀 I’m interested in finding what I like best in IT :)
 
 Try out my approaches in gaming field :) 
-https://github.com/AKuuna/Games
+https://github.com/AKuuna/Games/tree/main/AKSapper
 https://github.com/AKuuna/game_uno
 
 My other pieces of JS script can be found there :)
